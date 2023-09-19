@@ -1,6 +1,5 @@
 # 👋 **Hello! I'm Auban LABIE.**
 
----
 
 ## 🌐 **About Me**
 
