@@ -1,4 +1,4 @@
-# 👋 **Hello! I'm Auban LABIE.**
+# 👋 **Hello ! I'm Auban LABIE.**
 
 ## 🌐 **About Me**
 I'm a **Front-End Web Developer** passionate about the digital development world. With a solid background in web development, I've had the opportunity to undertake several internships in the industry, granting me notable expertise in front-end technologies, particularly Vue.js.
