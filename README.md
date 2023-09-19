@@ -26,7 +26,7 @@ I'm actively exploring the intricacies of **UI/UX design**, aiming to merge my c
 
 ## 🔗 **Connect & Discover**
 - [Portfolio](https://aubanlabie.com)
-- [LinkedIn](https://www.linkedin.com/in/aubanlabie/)
+- [LinkedIn](https://www.linkedin.com/in/aubanlabie)
 
 ## 📩 **Get in Touch**
 Feel free to reach out for collaborative opportunities, or if you just want to chat about web development!
